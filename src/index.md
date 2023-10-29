@@ -14,6 +14,7 @@ layout: base
 
 - [Atomic Design](https://sass-atomic-design.netlify.app/)
 - [Simple.css](https://sass-simple.netlify.app/)
+- [Pico.css](https://sass-pico.netlify.app/)
 
 ## Repos with Domain Name
 
