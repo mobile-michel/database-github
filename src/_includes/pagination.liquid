@@ -1,0 +1,5 @@
+<nav>
+    {% if pagination.href.previous %}<a role="button" href="{{ pagination.href.previous }}">Previous</a>{% else %}<div role="button" class="outline">Previous</div>{% endif %}
+    <div role="button" class="outline">This is page {{ pagination.pageNumber | plus: 1 }}</div>
+    {% if pagination.href.next %}<a role="button" href="{{ pagination.href.next }}">Next</a>{% else %}<div role="button" class="outline">Next</div>{% endif %}
+</nav>
