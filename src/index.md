@@ -1,6 +1,6 @@
 ---
 title: Main GitHub repos
-description: Some of the important GitHub repositories.
+description: Some of the important GitHub repositories with Netlify deploy.
 layout: base
 ---
 ## Repos with database support
@@ -15,7 +15,7 @@ layout: base
 - [Atomic Design](https://sass-atomic-design.netlify.app/)
 - [Simple.css](https://sass-simple.netlify.app/)
 
-## Repos with a Domain Name
+## Repos with Domain Name
 
 - [michelmaillard.ch](https://michelmaillard.ch/)
 - [letempsdunepose.ch](https://letempsdunepose.ch/)
