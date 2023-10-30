@@ -66,6 +66,17 @@
         "netlify": "database-css-frameworks"
     },
     {
+        "repo": "database-html",
+        "description": "HMTL elements database list",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": false,
+        "template": "liquid",
+        "cms": "null",
+        "category": "database",
+        "netlify": "database-html"
+    },
+    {
         "repo": "database-eleventy",
         "description": "Eleventy elements database list",
         "ssg": "eleventy",
