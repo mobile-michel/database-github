@@ -1,5 +1,16 @@
 [
  {
+  "repo": "database-github",
+  "description": "List of all GitHub repositories",
+  "ssg": "eleventy",
+  "css": "pico.css",
+  "sass": false,
+  "template": "liquid",
+  "cms": "null",
+  "category": "database",
+  "netlify": "database-github"
+ },
+ {
   "repo": "11ty-recipes",
   "description": "11ty Recipes - Long tutorial",
   "ssg": "eleventy",
