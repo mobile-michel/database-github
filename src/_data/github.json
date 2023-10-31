@@ -110,6 +110,28 @@
         "netlify": "database-github"
     },
     {
+        "repo": "simple-dark",
+        "description": "Simple.css framework with dark mode enabled",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": false,
+        "template": "liquid",
+        "cms": "null",
+        "category": "framework",
+        "netlify": "simple-darkmode"
+    },
+    {
+        "repo": "color-pico",
+        "description": "No description",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": false,
+        "template": "liquid",
+        "cms": "null",
+        "category": "framework",
+        "netlify": "color-pico"
+    },
+    {
         "repo": "11ty-recipes",
         "description": "11ty Recipes - Long tutorial",
         "ssg": "eleventy",
@@ -182,17 +204,6 @@
         "template": "nunjucks",
         "cms": "null",
         "category": "test"
-    },
-    {
-        "repo": "eleventy-sandbox-v1",
-        "description": "Eleventy, Liquid & Pico with responsive navbar & hue variable",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "decap",
-        "category": "sandbox",
-        "netlify": "eleventy-sandbox-v1"
     },
     {
         "repo": "eleventy-sass",

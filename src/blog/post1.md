@@ -1,6 +1,6 @@
 ---
 title: Classless
-description: Comparing Classless CSS Frameworks
+description: comparing Classless CSS Frameworks
 ---
 ## Elements to compare
 

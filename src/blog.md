@@ -6,7 +6,7 @@ tags: primary
 date: 2023-10-01
 pagination:
   data: collections.blog
-  size: 3
+  size: 10
   alias: items
 ---
 

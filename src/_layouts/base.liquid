@@ -16,7 +16,7 @@
     {% include 'nav' %}
     <main class="container">
         <h1>{{ title }}</h1>
-        <blockquote>{{ description }}</blockquote>
+        <blockquote>{{ description | capitalize }}</blockquote>
         {{ content }}
         {% include 'postNav' %}
     </main>
