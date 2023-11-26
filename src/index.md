@@ -18,6 +18,12 @@ layout: base
 - [Pico.css](https://sass-pico.netlify.app/)
 - [Pico.css v2](https://sass-pico-v2.netlify.app/)
 
+## Repos for layouts & CSS frameworks
+
+- [semantic-layouts](https://semantic-layouts.netlify.app/)
+- [sass-pico](https://sass-pico.netlify.app/)
+- [sass-classless](https://sass-classless.netlify.app/)
+
 ## Repos with Domain Name
 
 - [michelmaillard.ch](https://michelmaillard.ch/)
