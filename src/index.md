@@ -1,10 +1,11 @@
 ---
-title: Main GitHub repos
-description: Some of the important GitHub repositories with Netlify deploy.
+title: GitHub repos
+description: GitHub repositories with Netlify deploy.
 layout: base
 ---
 ## Repos with database support
 
+- [GitHub](https://database-github.netlify.app/)
 - [Eleventy Elements](https://database-eleventy.netlify.app/)
 - [HTML Elements](https://database-html.netlify.app/)
 - [LiquidJS Tags & Filters](https://database-liquid.netlify.app/)
@@ -14,9 +15,10 @@ layout: base
 
 - [Atomic Design](https://sass-atomic-design.netlify.app/)
 - [sass-pico](https://sass-pico.netlify.app/): 3 versions de Pico
-- [Pico.css v2](https://sass-pico-v2.netlify.app/)
-- [Simple.css](https://sass-simple.netlify.app/)
 - [Classless.css](https://sass-classless.netlify.app/)
+- [sass-simple](https://sass-simple.netlify.app/)
+- [sass-simple-v2](https://sass-simple-v2.netlify.app/)
+- [simple-darkmode](https://simple-darkmode.netlify.app/)
 
 ## Repos for layouts
 
@@ -31,3 +33,12 @@ layout: base
 - [aucoeurdespattes.ch](https://www.aucoeurdespattes.ch/)
 - [julieta-art](https://julieta-art.netlify.app/)
 - [psy-en-ligne.ch](https://psy-en-ligne.ch/)
+
+## Others repos
+
+- [1f-basic-decapcms](https://1f-basic-decapcms.netlify.app/)
+- [decapcms-sandbox](https://decapcms-sandbox.netlify.app/)
+- [lets-learn-11ty](https://lets-learn-11ty.netlify.app/)
+- [free-code-camp-tutorial](https://free-code-camp-tutorial.netlify.app/)
+
+28 November 2023: 23 repos
