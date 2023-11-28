@@ -23,6 +23,7 @@ layout: base
 ## Repos for layouts
 
 - [semantic-layouts](https://semantic-layouts.netlify.app/): 6 versions de layouts
+- [layouts-flexbox](https://layouts-flexbox.netlify.app/)
 
 ## Repos with Domain Name
 
