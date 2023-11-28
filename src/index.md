@@ -13,16 +13,14 @@ layout: base
 ## Repos with Sass Processing
 
 - [Atomic Design](https://sass-atomic-design.netlify.app/)
+- [sass-pico](https://sass-pico.netlify.app/): 3 versions de Pico
+- [Pico.css v2](https://sass-pico-v2.netlify.app/)
 - [Simple.css](https://sass-simple.netlify.app/)
 - [Classless.css](https://sass-classless.netlify.app/)
-- [Pico.css](https://sass-pico.netlify.app/)
-- [Pico.css v2](https://sass-pico-v2.netlify.app/)
 
-## Repos for layouts & CSS frameworks
+## Repos for layouts
 
-- [semantic-layouts](https://semantic-layouts.netlify.app/)
-- [sass-pico](https://sass-pico.netlify.app/)
-- [sass-classless](https://sass-classless.netlify.app/)
+- [semantic-layouts](https://semantic-layouts.netlify.app/): 6 versions de layouts
 
 ## Repos with Domain Name
 
