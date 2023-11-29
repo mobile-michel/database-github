@@ -15,10 +15,7 @@ layout: base
 
 - [Atomic Design](https://sass-atomic-design.netlify.app/)
 - [sass-pico](https://sass-pico.netlify.app/): 3 versions de Pico
-- [Classless.css](https://sass-classless.netlify.app/)
 - [sass-simple](https://sass-simple.netlify.app/)
-- [sass-simple-v2](https://sass-simple-v2.netlify.app/)
-- [simple-darkmode](https://simple-darkmode.netlify.app/)
 
 ## Repos for layouts
 
