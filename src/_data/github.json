@@ -779,5 +779,16 @@
         "template": "astro",
         "cms": "null",
         "netlify": "tirops-angels.org"
+    },
+    {
+        "category": "database",
+        "repo": "color-design-system",
+        "description": "Design System for Color",
+        "ssg": "eleventy",
+        "css": "personal",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "color-design-system.netlify.app"
     }
 ]
