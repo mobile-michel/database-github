@@ -13,6 +13,7 @@ description: liste des fonctionnalités d'Eleventy à mettre en place
 - **flux de travail avec SASS** (design system)
 - **gestion des couleurs**
   - créer une palette de couleurs (OKLCH)
+  - créer des variables pour les couleurs
   - créer un mode sombre (dark-mode)
 - **créer un blog avec collections et pagination**
   - tri par date
