@@ -11,11 +11,11 @@ description: liste des fonctionnalités d'Eleventy à mettre en place
   - pagination
 - **créer des composants avec LiquidJS** (render + variables)
 - **flux de travail avec SASS** (design system)
-- **gestion des couleurs**
+- **gestion des couleurs** [Color Design System](https://color-design-system.netlify.app/)
   - créer une palette de couleurs (OKLCH)
   - créer des variables pour les couleurs
   - créer un mode sombre (dark-mode)
-- **créer un blog avec collections et pagination**
+- **créer un blog avec collections et pagination** [Navigation](https://github.com/mobile-michel/navigation)
   - tri par date
   - cacher des pages futurs ou passées
 - **générer des pages avec des données JSON**
