@@ -1,43 +1,25 @@
 ---
-title: GitHub repos
-description: GitHub repositories with Netlify deploy.
+title: Important links
 layout: base
 ---
 ## Repos with database support
-
-- [GitHub](https://database-github.netlify.app/)
 - [Eleventy Elements](https://database-eleventy.netlify.app/)
 - [HTML Elements](https://database-html.netlify.app/)
 - [LiquidJS Tags & Filters](https://database-liquid.netlify.app/)
 - [CSS Frameworks](https://database-css-frameworks.netlify.app/)
 
-## Repos with Sass Processing
+## Webdev links
+- [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1
+- [Dart Sass](https://github.com/sass/dart-sass): 21 February 2024, v1.71.1
+- [Git](https://git-scm.com/download/linux): 14 February 2024, v2.43.2
 
-- [Color Design System](https://color-design-system.netlify.app/)
-- [Atomic Design](https://sass-atomic-design.netlify.app/)
-- [sass-pico](https://sass-pico.netlify.app/): 3 versions de Pico
-- [sass-simple](https://sass-simple.netlify.app/)
+## Classless Frameworks
+- [Pico.css](https://github.com/picocss/pico): 17 February 2024,  v2.0.3
+- [MVP](https://github.com/andybrewer/mvp/): 22 August 2023, v1.14
+- [Simple.css](https://github.com/kevquirk/simple.css): 17 May 2023, v2.2.1
+- [Bahunya](https://github.com/kimeiga/bahunya): 16 June 2022, no releases published
+- [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
-## Repos for layouts
-
-- [semantic-layouts](https://semantic-layouts.netlify.app/): 6 versions de layouts
-- [layouts-flexbox](https://layouts-flexbox.netlify.app/)
-
-## Repos with Domain Name
-
-- [michelmaillard.ch](https://michelmaillard.ch/)
-- [letempsdunepose.ch](https://letempsdunepose.ch/)
-- [tirops-angels.org](https://www.tirops-angels.org/)
-- [environnement7.ch](https://www.environnement7.ch/)
-- [aucoeurdespattes.ch](https://www.aucoeurdespattes.ch/)
-- [julieta-art](https://julieta-art.netlify.app/)
-- [psy-en-ligne.ch](https://psy-en-ligne.ch/)
-
-## Others repos
-
-- [1f-basic-decapcms](https://1f-basic-decapcms.netlify.app/)
-- [decapcms-sandbox](https://decapcms-sandbox.netlify.app/)
-- [lets-learn-11ty](https://lets-learn-11ty.netlify.app/)
-- [free-code-camp-tutorial](https://free-code-camp-tutorial.netlify.app/)
-
-28 November 2023: 21 repos
+## Photography links
+- [ART](https://bitbucket.org/agriggio/art/downloads/): 24 January 2024, v1.21.1
+- [digiKam](https://download.kde.org/stable/digikam/): 2 December 2023, v8.2.0
