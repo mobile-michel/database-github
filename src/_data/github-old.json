@@ -1,492 +1,794 @@
 [
     {
-        "repo": "sass-atomic-design",
-        "description": "Sass processing with Atomic Design explained",
+        "category": "template",
+        "repo": "1-basic",
+        "description": "Eleventy basic template with layout, 404 page",
         "ssg": "eleventy",
-        "css": "personal",
-        "sass": true,
+        "css": "uikit",
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "sass processing",
-        "netlify": "sass-atomic-design"
+        "netlify": ""
     },
     {
-        "repo": "sass-pico-v2",
-        "description": "Pico.css CSS Framework with Sass Processing",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": true,
-        "template": "liquid",
-        "cms": "null",
-        "category": "sass processing",
-        "netlify": "sass-pico-v2"
-    },
-    {
-        "repo": "sass-pico",
-        "description": "Pico.css CSS Framework with Sass Processing",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": true,
-        "template": "liquid",
-        "cms": "null",
-        "category": "sass processing",
-        "netlify": "sass-pico"
-    },
-    {
-        "repo": "sass-classless",
-        "description": "Classless.css CSS Framework with Sass Processing",
-        "ssg": "eleventy",
-        "css": "classless.css",
-        "sass": true,
-        "template": "liquid",
-        "cms": "null",
-        "category": "sass processing",
-        "netlify": "sass-classless"
-    },
-    {
-        "repo": "sass-simple",
-        "description": "Eleventy, LiquidJS, Simple with Sass processing",
-        "ssg": "eleventy",
-        "css": "simple.css",
-        "sass": true,
-        "template": "liquid",
-        "cms": "null",
-        "category": "sass processing",
-        "netlify": "sass-simple"
-    },
-    {
-        "repo": "database-css-frameworks",
-        "description": "Lists of CSS frameworks with examples",
-        "ssg": "eleventy",
-        "css": "simple.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "database",
-        "netlify": "database-css-frameworks"
-    },
-    {
-        "repo": "database-html",
-        "description": "HMTL elements database list",
-        "ssg": "eleventy",
-        "css": "simple.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "database",
-        "netlify": "database-html"
-    },
-    {
-        "repo": "database-eleventy",
-        "description": "Eleventy elements database list",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "database",
-        "netlify": "database-eleventy"
-    },
-    {
-        "repo": "database-liquid",
-        "description": "List of tags and filters for Liquid templates",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "database",
-        "netlify": "database-liquid"
-    },
-    {
-        "repo": "database-github",
-        "description": "List of all GitHub repositories",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "database",
-        "netlify": "database-github"
-    },
-    {
-        "repo": "simple-dark",
-        "description": "Simple.css framework with dark mode enabled",
-        "ssg": "eleventy",
-        "css": "simple.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "framework",
-        "netlify": "simple-darkmode"
-    },
-    {
-        "repo": "color-pico",
-        "description": "No description",
-        "ssg": "eleventy",
-        "css": "pico.css",
-        "sass": false,
-        "template": "liquid",
-        "cms": "null",
-        "category": "framework",
-        "netlify": "color-pico"
-    },
-    {
+        "category": "tutorial",
         "repo": "11ty-recipes",
         "description": "11ty Recipes - Long tutorial",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": true,
+        "sass": "true",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "11ty-starter",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "1a-basic-pico",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "1a-basic-uikit",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "1c-basic-simple",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "1e-basic",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "1f-basic-decapcms",
+        "description": "",
+        "ssg": "eleventy",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "decap",
+        "netlify": "1f-basic-decapcms.netlify.app"
+    },
+    {
+        "category": "",
+        "repo": "2-sass",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "true",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "2b-uikit",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "true",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "2c-sass-simple",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "2e-sass",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "true",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "3-json",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "4-pagination",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "5-aside",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "aside",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "layouts",
         "repo": "basic-layout2",
         "description": "Astro with Tailwind CSS and wireframe layouts",
         "ssg": "astro",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "layouts",
-        "netlify": "basic-layout2"
+        "netlify": ""
     },
     {
+        "category": "tutorial",
         "repo": "beginning-eleventy",
         "description": "Apress book",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "cascading-color",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "centralized_repository",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "html",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "layouts",
         "repo": "classless-stylesheets",
         "description": "css templates for html5 semantic class-less homepages",
         "ssg": "HTML",
         "css": "personal",
-        "sass": false,
-        "template": "null",
+        "sass": "false",
+        "template": "html",
         "cms": "null",
-        "category": "layouts",
-        "githubPages": "classless-stylesheets"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "color-pico-sass",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "true",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "layouts",
         "repo": "color-style-switcher",
         "description": "JavaScript to modify color stylesheets",
         "ssg": "HTML",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "null",
         "cms": "null",
-        "category": "layouts",
-        "githubPages": "color-style-switcher"
+        "netlify": ""
     },
     {
+        "category": "database",
+        "repo": "database-css-frameworks",
+        "description": "Lists of CSS frameworks with examples",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "database-css-frameworks.netlify.app"
+    },
+    {
+        "category": "database",
+        "repo": "database-eleventy",
+        "description": "Eleventy elements database list",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "database-eleventy.netlify.app"
+    },
+    {
+        "category": "database",
+        "repo": "database-github",
+        "description": "List of all GitHub repositories",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "database-github.netlify.app"
+    },
+    {
+        "category": "database",
+        "repo": "database-html",
+        "description": "HMTL elements database list",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "database-html.netlify.app"
+    },
+    {
+        "category": "database",
+        "repo": "database-liquid",
+        "description": "List of tags and filters for Liquid templates",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "database-liquid.netlify.app"
+    },
+    {
+        "category": "template",
         "repo": "decapCMS-sandbox",
         "description": "Eleventy CMS sandbox, Netlify & Decap",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "decap",
-        "category": "template",
-        "netlify": "decapcms-sandbox"
+        "netlify": "decapcms-sandbox.netlify.app"
     },
     {
+        "category": "test",
         "repo": "eleventy-bootstrap",
         "description": "Site test pour Bootstrap",
         "ssg": "eleventy",
         "css": "bootstrap",
-        "sass": true,
+        "sass": "true",
         "template": "nunjucks",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "test",
         "repo": "eleventy-sass",
         "description": "Eleventy with Sass & Bootstrap",
         "ssg": "eleventy",
         "css": "bootstrap",
-        "sass": true,
+        "sass": "true",
         "template": "nunjucks",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "domain",
         "repo": "environnement7",
         "description": "Site pour les 7 entreprises actives dans l'environnement",
         "ssg": "astro",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "domain",
-        "domain": "environnement7.ch"
+        "netlify": "environnement7.ch"
     },
     {
+        "category": "tutorial",
         "repo": "freecodecamp-tutorial",
         "description": "Tutorial about Eleventy on freecodecamp.org",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial",
-        "netlify": "free-code-camp-tutorial"
+        "netlify": "free-code-camp-tutorial.netlify.app"
     },
     {
+        "category": "test",
         "repo": "git-commands",
         "description": "Expose the subject",
         "ssg": "markdown",
         "css": "null",
-        "sass": false,
+        "sass": "false",
         "template": "null",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "test",
         "repo": "HTML5-documents",
         "description": "Documents privés en HTML5",
         "ssg": "HTML",
         "css": "null",
-        "sass": false,
+        "sass": "false",
         "template": "null",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "json-sandbox",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "domain",
         "repo": "julieta-art",
         "description": "julieta-art.ch website",
         "ssg": "astro",
         "css": "bootstrap",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "domain",
-        "domain": "julieta-art.ch"
+        "netlify": "julieta-art.ch"
     },
     {
+        "category": "test",
         "repo": "keywords",
         "description": "Mots-clés pour les photos",
         "ssg": "markdown",
         "css": "null",
-        "sass": false,
+        "sass": "false",
         "template": "null",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "layouts",
+        "repo": "layouts-flexbox",
+        "description": "",
+        "ssg": "eleventy",
+        "css": "personal",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "layouts-flexbox.netlify.app"
+    },
+    {
+        "category": "layouts",
         "repo": "layouts-with-background-image",
         "description": "Nine website layouts",
         "ssg": "astro",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "layouts",
-        "netlify": "layouts-with-background-image"
+        "netlify": ""
     },
     {
+        "category": "domain",
         "repo": "letempsdunepose",
         "description": "Site web letempsdunepose.ch chez Netlify",
         "ssg": "eleventy",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "nunjucks",
         "cms": "null",
-        "category": "domain",
-        "domain": "letempsdunepose.ch"
+        "netlify": "letempsdunepose.ch"
     },
     {
+        "category": "tutorial",
         "repo": "lets-learn-11ty",
         "description": "Let's Learn Eleventy - Long tutorial in 11th parts",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial",
-        "netlify": "lets-learn-11ty"
+        "netlify": "lets-learn-11ty.netlify.app"
     },
     {
+        "category": "domain",
         "repo": "michelmaillard",
         "description": "Personal website",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "domain",
-        "domain": "michelmaillard.ch"
+        "netlify": "michelmaillard.ch"
     },
     {
+        "category": "template",
         "repo": "neat-starter",
         "description": "Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS",
         "ssg": "eleventy",
         "css": "tailwindcss",
-        "sass": true,
+        "sass": "true",
         "template": "liquid",
         "cms": "decap",
-        "category": "template",
-        "netlify": "neat-starter-template"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "pagination",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "tutorial",
         "repo": "picocss",
         "description": "Eleventy 2.0.1 with Pico.css & a Sass workflow Tutorial",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": true,
+        "sass": "true",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial"
+        "netlify": ""
     },
     {
+        "category": "domain",
         "repo": "psy-en-ligne",
         "description": "Website project for www.psy-en-ligne.ch",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "decap",
-        "category": "domain",
-        "domain": "psy-en-ligne.ch"
+        "netlify": "psy-en-ligne.ch"
     },
     {
+        "category": "test",
         "repo": "responsive-pure-css-menu",
         "description": "Create a responsive mobile menu with CSS without JavaScript- repo for LogRocket Article",
         "ssg": "HTML",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "null",
         "cms": "null",
-        "category": "test"
+        "netlify": ""
     },
     {
+        "category": "",
+        "repo": "sandbox-git",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "sass processing",
+        "repo": "sass-atomic-design",
+        "description": "Sass processing with Atomic Design explained",
+        "ssg": "eleventy",
+        "css": "personal",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "sass-atomic-design.netlify.app"
+    },
+    {
+        "category": "sass processing",
+        "repo": "sass-classless",
+        "description": "Classless.css CSS Framework with Sass Processing",
+        "ssg": "eleventy",
+        "css": "classless.css",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": ""
+    },
+    {
+        "category": "sass processing",
+        "repo": "sass-pico",
+        "description": "Pico.css CSS Framework with Sass Processing",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "sass-pico.netlify.app"
+    },
+    {
+        "category": "sass processing",
+        "repo": "sass-pico-v1",
+        "description": "Pico.css CSS Framework with Sass Processing",
+        "ssg": "eleventy",
+        "css": "pico.css",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "sass-sandbox",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "true",
+        "template": "",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "sass processing",
+        "repo": "sass-simple",
+        "description": "Eleventy, LiquidJS, Simple with Sass processing",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "sass-simple.netlify.app"
+    },
+    {
+        "category": "",
+        "repo": "sass-simple-v1",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "sass-simple-v2",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "layouts",
         "repo": "semantic-layouts",
         "description": "Basic semantic HTML5 layouts",
         "ssg": "eleventy",
         "css": "personal",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "layouts",
-        "netlify": "semantic-layouts"
+        "netlify": "semantic-layouts.netlify.app"
     },
     {
+        "category": "framework",
+        "repo": "simple-dark",
+        "description": "Simple.css framework with dark mode enabled",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": "false",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": ""
+    },
+    {
+        "category": "",
+        "repo": "simple-sass-sandbox",
+        "description": "",
+        "ssg": "",
+        "css": "",
+        "sass": "",
+        "template": "liquid",
+        "cms": "",
+        "netlify": ""
+    },
+    {
+        "category": "domain",
         "repo": "sonotherapie",
-        "description": "Sonothérapie website",
+        "description": "Sonoth�rapie website",
         "ssg": "astro",
         "css": "bootstrap",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "domain",
-        "domain": "aucoeurdespattes.ch"
+        "netlify": "aucoeurdespattes.ch"
     },
     {
+        "category": "tutorial",
         "repo": "stepbystep",
         "description": "Eleventy website step by step",
         "ssg": "eleventy",
         "css": "bootstrap",
-        "sass": false,
+        "sass": "false",
         "template": "nunjucks",
         "cms": "null",
-        "category": "tutorial"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "tailwind-layout-v1",
         "description": "Astro template with Tailwind CSS",
         "ssg": "astro",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "template",
-        "netlify": "tailwind-layout-v1"
+        "netlify": ""
     },
     {
+        "category": "layouts",
         "repo": "tailwind-templates-v1",
         "description": "Astro 0.26.0 with Tailwind CSS 3.0.23 test website",
         "ssg": "astro",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "layouts",
-        "netlify": "tailwind-templates-v1"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template2",
         "description": "Template with Eleventy, Liquid, Pico & Blueprint with Sass processing",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": true,
+        "sass": "true",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template3",
         "description": "Template with Eleventy, Liquid, Pico & Blueprint",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template4",
         "description": "Template with Eleventy, Liquid, Pico & Blueprint with navbar",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template5",
         "description": "Eleventy, Liquid & Pico with Sass processing v2",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": true,
+        "sass": "true",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template6",
         "description": "Template with Eleventy, Liquid, Pico with Sass processing & navbar",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": true,
+        "sass": "true",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "template",
         "repo": "template8",
         "description": "Eleventy, Liquid & Pico with responsive navbar & hue variable",
         "ssg": "eleventy",
         "css": "pico.css",
-        "sass": false,
+        "sass": "false",
         "template": "liquid",
         "cms": "null",
-        "category": "template"
+        "netlify": ""
     },
     {
+        "category": "domain",
         "repo": "tirops-angels",
         "description": "Fondation for Tirop's Angels",
         "ssg": "astro",
         "css": "tailwindcss",
-        "sass": false,
+        "sass": "false",
         "template": "astro",
         "cms": "null",
-        "category": "domain",
-        "domain": "tirops-angels.org"
+        "netlify": "tirops-angels.org"
+    },
+    {
+        "category": "database",
+        "repo": "color-design-system",
+        "description": "Design System for Color",
+        "ssg": "eleventy",
+        "css": "personal",
+        "sass": "true",
+        "template": "liquid",
+        "cms": "null",
+        "netlify": "color-design-system.netlify.app"
     }
 ]
