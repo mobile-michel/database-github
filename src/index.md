@@ -7,6 +7,19 @@ layout: base
 - [HTML Elements](https://database-html.netlify.app/)
 - [LiquidJS Tags & Filters](https://database-liquid.netlify.app/)
 - [CSS Frameworks](https://database-css-frameworks.netlify.app/)
+- [Photo metadata](https://database-photo-metadata.netlify.app/)
+
+## Others repos on Netlify
+- [Basic DecapCMS](https://1f-basic-decapcms.netlify.app/)
+- [Color design system](https://color-design-system.netlify.app/)
+- [DecapCSM sandbox](https://decapcms-sandbox.netlify.app/)
+- [FreeCodeCamp tutorial](https://free-code-camp-tutorial.netlify.app/)
+- [Layouts flexbox](https://layouts-flexbox.netlify.app/)
+- [Let's learn 11ty](https://lets-learn-11ty.netlify.app/)
+- [Sass atomic design](https://sass-atomic-design.netlify.app/)
+- [Sass Pico](https://sass-pico.netlify.app/)
+- [Sass Simple](https://sass-simple.netlify.app/)
+- [Semantic layouts](https://semantic-layouts.netlify.app/)
 
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1
