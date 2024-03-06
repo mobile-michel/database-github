@@ -10,6 +10,7 @@ layout: base
 - [Photo metadata](https://database-photo-metadata.netlify.app/)
 
 ## Others repos on Netlify
+- [ARIA landmarks](https://aria-landmarks.netlify.app/)
 - [Basic DecapCMS](https://1f-basic-decapcms.netlify.app/)
 - [Color design system](https://color-design-system.netlify.app/)
 - [DecapCSM sandbox](https://decapcms-sandbox.netlify.app/)
