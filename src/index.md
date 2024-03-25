@@ -22,10 +22,15 @@ layout: base
 - [Sass Simple](https://sass-simple.netlify.app/)
 - [Semantic layouts](https://semantic-layouts.netlify.app/)
 
+## GitHub Pages deploys
+- [11-minimal](https://mobile-michel.github.io/11-minimal/)
+- [21-sass](https://mobile-michel.github.io/21-sass/)
+- [22-sass-minimal](https://mobile-michel.github.io/22-sass-minimal/)
+
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1
-- [Dart Sass](https://github.com/sass/dart-sass): 21 February 2024, v1.71.1
-- [Git](https://git-scm.com/download/linux): 14 February 2024, v2.43.2
+- [Dart Sass](https://github.com/sass/dart-sass): 13 March 2024, v1.72.0
+- [Git](https://git-scm.com/download/linux): 14 February 2024, v2.39.2 (dépôt rétroportage)
 
 ## Classless Frameworks
 - [Pico.css](https://github.com/picocss/pico): 3 March 2024,  v2.0.6
@@ -35,5 +40,5 @@ layout: base
 - [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
 ## Photography links
-- [ART](https://bitbucket.org/agriggio/art/downloads/): 24 January 2024, v1.21.1
-- [digiKam](https://download.kde.org/stable/digikam/): 2 December 2023, v8.2.0
+- [ART](https://bitbucket.org/agriggio/art/downloads/): 20 March 2024, v1.21.2
+- [digiKam](https://download.kde.org/stable/digikam/): 16 March 2024, v8.3.0
