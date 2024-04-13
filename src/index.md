@@ -26,19 +26,22 @@ layout: base
 - [11-minimal](https://mobile-michel.github.io/11-minimal/)
 - [21-sass](https://mobile-michel.github.io/21-sass/)
 - [22-sass-minimal](https://mobile-michel.github.io/22-sass-minimal/)
+- [30-main-template](https://mobile-michel.github.io/30-main-template/)
+- [sandbox-git](https://mobile-michel.github.io/sandbox-git/)
+- [flexbox](https://mobile-michel.github.io/flexbox/)
 
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1
-- [Dart Sass](https://github.com/sass/dart-sass): 13 March 2024, v1.72.0
-- [Git](https://git-scm.com/download/linux): 14 February 2024, v2.39.2 (dépôt rétroportage)
+- [Dart Sass](https://github.com/sass/dart-sass): 12 April 2024, v1.75.0
+- [Git](https://git-scm.com/download/linux): 14 February 2024, v2.39.2 (download v2.44)
 
 ## Classless Frameworks
 - [Pico.css](https://github.com/picocss/pico): 3 March 2024,  v2.0.6
-- [MVP](https://github.com/andybrewer/mvp/): 22 August 2023, v1.14
+- [MVP](https://github.com/andybrewer/mvp/): 5 April 2024, v1.15
 - [Simple.css](https://github.com/kevquirk/simple.css): 6 March 2024, v2.3.0
 - [Bahunya](https://github.com/kimeiga/bahunya): 16 June 2022, no releases published
 - [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
 ## Photography links
-- [ART](https://bitbucket.org/agriggio/art/downloads/): 20 March 2024, v1.21.2
+- [ART](https://bitbucket.org/agriggio/art/downloads/): 10 April 2024, v1.21.3
 - [digiKam](https://download.kde.org/stable/digikam/): 16 March 2024, v8.3.0
