@@ -2,33 +2,38 @@
 title: Important links
 layout: base
 ---
-## Repos with database support
+## Netlify deploys
 - [Eleventy Elements](https://database-eleventy.netlify.app/)
 - [HTML Elements](https://database-html.netlify.app/)
 - [LiquidJS Tags & Filters](https://database-liquid.netlify.app/)
 - [CSS Frameworks](https://database-css-frameworks.netlify.app/)
 - [Photo metadata](https://database-photo-metadata.netlify.app/)
+- [DecapCSM Basic](https://decapcms-basic.netlify.app/)
+- [DecapCSM Sandbox](https://decapcms-sandbox.netlify.app/)
+- [DecapCSM Template](https://decapcms-template.netlify.app/)
 
-## Others repos on Netlify
-- [ARIA landmarks](https://aria-landmarks.netlify.app/)
-- [Basic DecapCMS](https://1f-basic-decapcms.netlify.app/)
-- [Color design system](https://color-design-system.netlify.app/)
-- [DecapCSM sandbox](https://decapcms-sandbox.netlify.app/)
-- [FreeCodeCamp tutorial](https://free-code-camp-tutorial.netlify.app/)
-- [Layouts flexbox](https://layouts-flexbox.netlify.app/)
-- [Let's learn 11ty](https://lets-learn-11ty.netlify.app/)
-- [Sass atomic design](https://sass-atomic-design.netlify.app/)
-- [Sass Pico](https://sass-pico.netlify.app/)
-- [Sass Simple](https://sass-simple.netlify.app/)
-- [Semantic layouts](https://semantic-layouts.netlify.app/)
+## Github Pages
+- [ARIA landmarks](https://mobile-michel.github.io/aria-landmark/)
+- [Cascading Colors](https://mobile-michel.github.io/cascading-color/)
+- [Color design system](https://mobile-michel.github.io/color-design-system/)
+- [flexbox](https://mobile-michel.github.io/flexbox/)
+- [FreeCodeCamp tutorial](https://mobile-michel.github.io/freecodecamp-tutorial/)
+- [Layouts flexbox](https://mobile-michel.github.io/layouts-flexbox/)
+- [Let's learn 11ty](https://mobile-michel.github.io/lets-learn-11ty/)
+- [sandbox-git](https://mobile-michel.github.io/sandbox-git/)
+- [Sass atomic design](https://mobile-michel.github.io/sass-atomic-design/)
+- [Sass Pico](https://mobile-michel.github.io/sass-pico/)
+- [Sass Simple](https://mobile-michel.github.io/sass-simple/)
+- [Semantic layouts](https://mobile-michel.github.io/semantic-layouts/)
+- [Web Dev](https://mobile-michel.github.io/web.dev/)
 
-## GitHub Pages deploys
+## Templates with GitHub Pages
 - [11-minimal](https://mobile-michel.github.io/11-minimal/)
+- [12-simple-template](https://mobile-michel.github.io/12-simple-template/)
+- [19-nav-dropdown](https://mobile-michel.github.io/19-nav-dropdown/)
 - [21-sass](https://mobile-michel.github.io/21-sass/)
 - [22-sass-minimal](https://mobile-michel.github.io/22-sass-minimal/)
 - [30-main-template](https://mobile-michel.github.io/30-main-template/)
-- [sandbox-git](https://mobile-michel.github.io/sandbox-git/)
-- [flexbox](https://mobile-michel.github.io/flexbox/)
 
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1
