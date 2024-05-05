@@ -29,8 +29,11 @@ layout: base
 - [Web Dev](https://mobile-michel.github.io/web.dev/)
 
 ## Templates with GitHub Pages
+- [10-very-basic](https://mobile-michel.github.io/10-very-basic/)
 - [11-minimal](https://mobile-michel.github.io/11-minimal/)
 - [12-simple-template](https://mobile-michel.github.io/12-simple-template/)
+- [13-simple-blog](https://mobile-michel.github.io/13-simple-blog/)
+- [14-multi-blog](https://mobile-michel.github.io/14-multi-blog/)
 - [19-nav-dropdown](https://mobile-michel.github.io/19-nav-dropdown/)
 - [21-sass](https://mobile-michel.github.io/21-sass/)
 - [22-sass-minimal](https://mobile-michel.github.io/22-sass-minimal/)
