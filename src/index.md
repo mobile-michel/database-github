@@ -47,7 +47,7 @@ layout: base
 ## Classless Frameworks
 - [Pico.css](https://github.com/picocss/pico): 3 March 2024,  v2.0.6
 - [MVP](https://github.com/andybrewer/mvp/): 5 April 2024, v1.15
-- [Simple.css](https://github.com/kevquirk/simple.css): 6 March 2024, v2.3.0
+- [Simple.css](https://github.com/kevquirk/simple.css): 25 May 2024, v2.3.1
 - [Bahunya](https://github.com/kimeiga/bahunya): 16 June 2022, no releases published
 - [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
