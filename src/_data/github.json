@@ -4,7 +4,7 @@
         "github": "letempsdunepose",
         "deploy": "netlify",
         "url": "letempsdunepose.ch",
-        "description": "Live website Club photo St-Cergue",
+        "description": "Live website Club photo St-Cergue.",
         "ssg": "eleventy",
         "css": "tailwindcss",
         "sass": false,
@@ -28,7 +28,7 @@
         "github": "environnement7",
         "deploy": "netlify",
         "url": "environnement7.ch",
-        "description": "Site pour les 7 entreprises actives dans l'environnement",
+        "description": "Site pour les 7 entreprises actives dans l'environnement.",
         "ssg": "astro",
         "css": "personal",
         "sass": false,
@@ -40,7 +40,7 @@
         "github": "tirops-angels",
         "deploy": "netlify",
         "url": "tirops-angels.org",
-        "description": "Fondation for Tirop's Angels",
+        "description": "Fondation for Tirop's Angels.",
         "ssg": "astro",
         "css": "tailwindcss",
         "sass": false,
@@ -52,7 +52,7 @@
         "github": "aucoeurdespattes",
         "deploy": "netlify",
         "url": "aucoeurdespattes.ch",
-        "description": "Sonothérapie website",
+        "description": "Sonothérapie website.",
         "ssg": "astro",
         "css": "bootstrap",
         "sass": false,
@@ -64,19 +64,19 @@
         "github": "database-github",
         "deploy": "netlify",
         "url": "database-github.netlify.app",
-        "description": "List of all GitHub repositories",
+        "description": "List of all GitHub repositories.",
         "ssg": "eleventy",
         "css": "pico.css",
         "sass": false,
         "template": "LiquidJS",
-        "cms": false
+        "cms": true
     },
     {
         "category": "database",
         "github": "database-html",
         "deploy": "netlify",
         "url": "database-html.netlify.app",
-        "description": "HMTL elements database list",
+        "description": "HMTL elements database list.",
         "ssg": "eleventy",
         "css": "simple.css",
         "sass": false,
@@ -88,7 +88,7 @@
         "github": "database-eleventy",
         "deploy": "netlify",
         "url": "database-eleventy.netlify.app",
-        "description": "Eleventy elements database list",
+        "description": "Eleventy elements database list.",
         "ssg": "eleventy",
         "css": "pico.css",
         "sass": false,
@@ -100,7 +100,7 @@
         "github": "database-css",
         "deploy": "netlify",
         "url": "database-css.netlify.app",
-        "description": "Lists of CSS frameworks with examples v2",
+        "description": "Lists of CSS frameworks with examples v2.",
         "ssg": "eleventy",
         "css": "simple.css",
         "sass": false,
@@ -112,7 +112,7 @@
         "github": "database-css-framework",
         "deploy": "netlify",
         "url": "database-css-frameworks.netlify.app",
-        "description": "Lists of CSS frameworks with examples v1",
+        "description": "Lists of CSS frameworks with examples v1.",
         "ssg": "eleventy",
         "css": "simple.css",
         "sass": false,
@@ -124,7 +124,7 @@
         "github": "database-liquid",
         "deploy": "netlify",
         "url": "database-liquid.netlify.app",
-        "description": "List of tags and filters for Liquid templates",
+        "description": "List of tags and filters for Liquid templates.",
         "ssg": "eleventy",
         "css": "pico.css",
         "sass": false,
@@ -148,9 +148,9 @@
         "github": "10-very-basic",
         "deploy": "github-pages",
         "url": false,
-        "description": "",
+        "description": "Very Basic Template.",
         "ssg": "eleventy",
-        "css": "",
+        "css": "no stylesheet",
         "sass": false,
         "template": "LiquidJS",
         "cms": false
@@ -177,7 +177,7 @@
         "css": "many CDN",
         "sass": false,
         "template": "LiquidJS",
-        "cms": "DecapCMS"
+        "cms": true
     },
     {
         "category": "template",
@@ -189,7 +189,7 @@
         "css": "personal files",
         "sass": false,
         "template": "LiquidJS",
-        "cms": "DecapCMS"
+        "cms": true
     },
     {
         "category": "template",
@@ -201,7 +201,7 @@
         "css": "personal in includes",
         "sass": false,
         "template": "LiquidJS",
-        "cms": "DecapCMS"
+        "cms": true
     },
     {
         "category": "template",
@@ -225,7 +225,7 @@
         "css": "perso in Sass",
         "sass": true,
         "template": "LiquidJS",
-        "cms": "DecapCMS"
+        "cms": true
     },
     {
         "category": "template",
@@ -249,7 +249,7 @@
         "css": "perso in Sass",
         "sass": true,
         "template": "LiquidJS",
-        "cms": "DecapCMS"
+        "cms": true
     },
     {
         "category": "sandbox",
@@ -319,6 +319,90 @@
         "description": "Different layouts with flexbox CSS.",
         "ssg": "eleventy",
         "css": "perso in Sass",
+        "sass": true,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "lets-learn-eleventy",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/lets-learn-eleventy",
+        "description": "Let's Learn Eleventy - Long tutorial in 11th parts.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "Nunjucks",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "sandbox-git",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/sandbox-git",
+        "description": "Eleventy to experiment with Git commands.",
+        "ssg": "eleventy",
+        "css": "Simple.css",
+        "sass": true,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "sass-atomic-design",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/sass-atomic-design",
+        "description": "Sass processing with Atomic Design explained.",
+        "ssg": "eleventy",
+        "css": "Simple.css in Sass",
+        "sass": true,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "sass-pico",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/sass-pico",
+        "description": "Sass workflow with Pico CSS.",
+        "ssg": "eleventy",
+        "css": "Pico.css",
+        "sass": true,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "sass-simple",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/sass-simple",
+        "description": "Basic template with Eleventy, LiquidJS & Sass processing.",
+        "ssg": "eleventy",
+        "css": "Simple.css",
+        "sass": true,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "semantic-layouts",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/semantic-layouts",
+        "description": "Basic semantic HTML5 layouts.",
+        "ssg": "eleventy",
+        "css": "Tailwind + private",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "web.dev",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/web.dev",
+        "description": "Responsive design course on web.dev.",
+        "ssg": "eleventy",
+        "css": "Web.dev with Sass",
         "sass": true,
         "template": "LiquidJS",
         "cms": false

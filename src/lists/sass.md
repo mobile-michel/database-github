@@ -1,14 +1,12 @@
 ---
-title: Sass & Netlify
-description: repositories with a Sass workflow & Netlify deploy
+title: Sass
+description: repositories with a Sass workflow
 date: 2023-10-02
 ---
+{% assign number = github | where: 'sass' %}
+There are {{number.size}} repositories.
 {% for i in github %}
-{% if i.sass == 'true' %} 
-{% if i.netlify != 'null' -%}
-
+{% if i.sass == true %} 
 {% include 'filter' %}
-
-{% endif %}
 {% endif %}
 {% endfor %}

@@ -5,13 +5,17 @@ layout: base
 tags: primary
 date: 2023-10-03
 ---
+{% for element in github %}
+{% assign item = element | group_by: 'category' %}
+<p>{{ item.category }}</p>
+<ul>
+    {% for item in element.items %}
+    <li><a href="{{ item.link }}">{{ item.id }}</a>: {{ item.idDescription }}</li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
 {% for i in github %}
-- **[{{ i.github | capitalize }}](https://github.com/mobile-michel/{{ i.github }})**: {{ i.description }}
-**SSG**: {{i.ssg | capitalize }} - **CSS**: {{i.css}} - **template**: {{i.template | capitalize}} - {% if i.cms %}**CMS**: {{i.cms}}{% endif %}
-{% if i.netlify -%}
-**Netlify**: [{{ i.netlify }}](https://{{ i.netlify }}.netlify.app/)
-{% endif %}
-{%- if i.githubPages -%}
-**GitHub Pages**: [{{ i.githubPages }}](https://mobile-michel.github.io/{{ i.githubPages }}/)
-{% endif %}
+- **{{ i.github | capitalize }}**: {{ i.description }} | [GitHub repo]({{ i.github }}) | [Deploy](https://{{ i.url }}/)  
+**site generator**: {{i.ssg | capitalize }} | **stylesheet**: {{i.css}} | **template**: {{i.template | capitalize}} {% if i.sass %} |**Sass**{% endif %} {% if i.cms %} |**DecapCMS**{% endif %}
 {% endfor %}
