@@ -1,6 +1,18 @@
 [
     {
         "category": "domain",
+        "github": "mobile-michel.github.io",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/",
+        "description": "Test site.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "domain",
         "github": "letempsdunepose",
         "deploy": "netlify",
         "url": "letempsdunepose.ch",
@@ -121,6 +133,18 @@
     },
     {
         "category": "database",
+        "github": "css",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/css/",
+        "description": "CSS stylesheets with Eleventy, Liquid & DecapCMS.",
+        "ssg": "eleventy",
+        "css": "advanced stylesheet",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "database",
         "github": "database-liquid",
         "deploy": "netlify",
         "url": "database-liquid.netlify.app",
@@ -133,12 +157,36 @@
     },
     {
         "category": "database",
+        "github": "liquidjs",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/liquidjs/",
+        "description": "List of tags and filters for LiquidJS.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "database",
         "github": "database-photo-metadata",
         "deploy": "netlify",
         "url": "database-photo-metadata.netlify.app",
         "description": "Base de données pour les métadonnées dans les images.",
         "ssg": "eleventy",
         "css": "simple.css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "template",
+        "github": "10-basic",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/10-basic/",
+        "description": "Very Basic Template.",
+        "ssg": "eleventy",
+        "css": "advanced stylesheet",
         "sass": false,
         "template": "LiquidJS",
         "cms": false
@@ -199,6 +247,18 @@
         "description": "Multi blog with Eleventy, Liquid, classless CSS framework & DecapCMS.",
         "ssg": "eleventy",
         "css": "personal in includes",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "template",
+        "github": "15-new-structure",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/15-new-structure",
+        "description": "Multi blog with Eleventy, Liquid & DecapCMS.",
+        "ssg": "eleventy",
+        "css": "advanced stylesheet",
         "sass": false,
         "template": "LiquidJS",
         "cms": true
@@ -406,5 +466,53 @@
         "sass": true,
         "template": "LiquidJS",
         "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "pagination-demo",
+        "deploy": "github-pages",
+        "url": "mobile-michel.github.io/pagination-demo/",
+        "description": "Pagination demo with code examples.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": false
+    },
+    {
+        "category": "sandbox",
+        "github": "decapcms-template",
+        "deploy": "netlify",
+        "url": "decapcms-template.netlify.app/",
+        "description": "DecapCMS sandbox.",
+        "ssg": "eleventy",
+        "css": "simple.css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "sandbox",
+        "github": "decapcms-sandbox",
+        "deploy": "netlify",
+        "url": "decapcms-sandbox.netlify.app/",
+        "description": "Eleventy CMS sandbox, Netlify & Decap.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
+    },
+    {
+        "category": "sandbox",
+        "github": "decapcms-basic",
+        "deploy": "netlify",
+        "url": "decapcms-basic.netlify.app/",
+        "description": "Basic template with Eleventy, LiquidJS, CSS & DecapCMS.",
+        "ssg": "eleventy",
+        "css": "private css",
+        "sass": false,
+        "template": "LiquidJS",
+        "cms": true
     }
 ]
