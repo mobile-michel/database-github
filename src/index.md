@@ -15,5 +15,5 @@ layout: base
 - [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
 ## Photography links
-- [ART](https://bitbucket.org/agriggio/art/downloads/): 28 mai 2024, v1.22.0
+- [ART](https://bitbucket.org/agriggio/art/downloads/): 24 juin 2024, v1.22.1
 - [digiKam](https://download.kde.org/stable/digikam/): 16 March 2024, v8.3.0
