@@ -3,7 +3,7 @@ title: Important links
 layout: base
 ---
 ## Webdev links
-- [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1 + 16 July 2024, v3.0.0-alpha.17
+- [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1 + 31 July 2024, v3.0.0-beta.1
 - [Dart Sass](https://github.com/sass/dart-sass): 11 July 2024, v1.77.8
 - [Git](https://git-scm.com/download/linux): 31 May 2024, v2.45.2 (dépôts activés v2.39.2)
 
@@ -15,5 +15,5 @@ layout: base
 - [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
 
 ## Photography links
-- [ART](https://bitbucket.org/agriggio/art/downloads/): 18 June 2024, v1.22.1
+- [ART](https://bitbucket.org/agriggio/art/downloads/): 5 August 2024, v1.23
 - [digiKam](https://download.kde.org/stable/digikam/): 13 July 2024, v8.4.0
