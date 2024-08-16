@@ -5,10 +5,10 @@ layout: base
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1 + 31 July 2024, v3.0.0-beta.1
 - [Dart Sass](https://github.com/sass/dart-sass): 11 July 2024, v1.77.8
-- [Git](https://git-scm.com/download/linux): 31 May 2024, v2.45.2 (dépôts activés v2.39.2)
+- [Git](https://git-scm.com/download/linux): 29 July 2024, v2.46.0 (dépôts activés v2.39.2)
 
 ## Classless Frameworks
-- [Simple.css](https://github.com/kevquirk/simple.css): 25 May 2024, v2.3.1
+- [Simple.css](https://github.com/kevquirk/simple.css): 13 August 2024, v2.3.2
 - [MVP](https://github.com/andybrewer/mvp/): 5 April 2024, v1.15
 - [Pico.css](https://github.com/picocss/pico): 3 March 2024,  v2.0.6
 - [Bahunya](https://github.com/kimeiga/bahunya): 16 June 2022, no releases published
