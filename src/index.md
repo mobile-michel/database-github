@@ -4,7 +4,7 @@ layout: base
 ---
 ## Webdev links
 - [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1 + 31 July 2024, v3.0.0-beta.1
-- [Dart Sass](https://github.com/sass/dart-sass): 11 July 2024, v1.77.8
+- [Dart Sass](https://github.com/sass/dart-sass): 4 September 2024, v1.78.0
 - [Git](https://git-scm.com/download/linux): 29 July 2024, v2.46.0 (dépôts activés v2.39.2)
 
 ## Classless Frameworks
@@ -12,7 +12,7 @@ layout: base
 - [MVP](https://github.com/andybrewer/mvp/): 5 April 2024, v1.15
 - [Pico.css](https://github.com/picocss/pico): 3 March 2024,  v2.0.6
 - [Bahunya](https://github.com/kimeiga/bahunya): 16 June 2022, no releases published
-- [Classless](https://github.com/emareg/classlesscss): 18 March 2022: 1.0
+- [Classless](https://github.com/emareg/classlesscss): 8 September 2024: 1.1
 
 ## Photography links
 - [ART](https://bitbucket.org/agriggio/art/downloads/): 5 August 2024, v1.23
