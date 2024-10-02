@@ -3,9 +3,9 @@ title: Important links
 layout: base
 ---
 ## Webdev links
-- [Eleventy](https://github.com/11ty/eleventy): 28 March 2023, v2.0.1 + 31 July 2024, v3.0.0-beta.1
+- [Eleventy](https://github.com/11ty/eleventy): 1st October 2024, v3.0.0
 - [LiquidJS](https://github.com/harttle/liquidjs): 22 September 2024, v10.17.0
-- [Dart Sass](https://github.com/sass/dart-sass): 20 September 2024, v1.79.3
+- [Dart Sass](https://github.com/sass/dart-sass): 28 September 2024, v1.79.4
 - [Git](https://git-scm.com/download/linux): 23 September 2024, v2.46.2 (dépôts activés v2.39.2)
 
 ## Classless Frameworks
